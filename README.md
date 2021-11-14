@@ -1,3 +1,12 @@
+### <div align="center"> Junior web developer, Eunsoo JIN  🚀 </div>
+<div align="center">
+         Click Here!  
+         
+         Notion : https://star-fighter-924.notion.site/a4257489bb7048ee8f2c97f4d998c153
+         Blog : https://joinwithyou.tistory.com/     
+         Email : ensu6788@gmail.com    
+         
+</div>
 
 
 ### <div align="center">  Backend Stack 🚀 </div>
@@ -19,13 +28,8 @@
 <div align="center">   
  <img src="https://img.shields.io/badge/slack-4a154b?style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/zenhub-4461fb?style=flat-square&logo=zenhub&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=notion&logoColor=black"/> 
 </div>
+<br> </br>
+<br> </br>
+<br> </br>
+<br> </br>
 
-    
-### <div align="center"> My Page 🚀 </div>
-<div align="center">[Notion!](https://star-fighter-924.notion.site/a4257489bb7048ee8f2c97f4d998c153)</div>
-<div align="center">
-[Blog!](https://joinwithyou.tistory.com/)
-</div>
-
-
-[링크는 젤다의전설 주인공 이름](http://zeldahagoshipda.com)
