@@ -29,7 +29,5 @@
  <img src="https://img.shields.io/badge/slack-4a154b?style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/zenhub-4461fb?style=flat-square&logo=zenhub&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=notion&logoColor=black"/> 
 </div>
 <br> </br>
-<br> </br>
-<br> </br>
-<br> </br>
+
 
