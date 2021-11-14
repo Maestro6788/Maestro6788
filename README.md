@@ -1,7 +1,8 @@
 
 
 <div align="center">
-### 🚀 Backend Stack 🚀
+         ### 🚀 Backend Stack 🚀
+         
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"/> <img src="https://img.shields.io/badge/SpringCloud-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Springsecurity&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-d61900?style=flat-square&logo=redis&logoColor=white"/>  <img src="https://img.shields.io/badge/MariaDB-c0765a?style=flat-square&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-c0765a?style=flat-square&logo=mariadb&logoColor=white"/>
