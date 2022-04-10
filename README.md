@@ -2,7 +2,7 @@
 <div align="center">
          Click Here!  
          
-         Notion : https://star-fighter-924.notion.site/a4257489bb7048ee8f2c97f4d998c153
+         Notion : https://star-fighter-924.notion.site/BE-66ae04f2cf144afdbd0e40b89e3d7c9d
          Blog : https://joinwithyou.tistory.com/     
          Email : ensu6788@gmail.com    
          
